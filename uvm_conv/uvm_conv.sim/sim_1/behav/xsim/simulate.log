@@ -1,0 +1,1354 @@
+Time resolution is 1 ps
+UVM_INFO /home/quocna/tools/Vivado/2022.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv(18601) @ 0: reporter [UVM/RELNOTES] 
+      (Specify +UVM_NO_RELNOTES to turn off this notice)
+  with `UVM_OBJECT_DO_NOT_NEED_CONSTRUCTOR undefined.
+
+  You are using a version of the UVM library that has been compiled
+  with `UVM_NO_DEPRECATED undefined.
+
+  You are using a version of the UVM library that has been compiled
+
+  ***********       IMPORTANT RELEASE NOTES         ************
+----------------------------------------------------------------
+(C) 2013-2014 NVIDIA Corporation
+(C) 2011-2013 Cypress Semiconductor Corp.
+(C) 2006-2014 Synopsys, Inc.
+(C) 2007-2014 Cadence Design Systems, Inc.
+(C) 2007-2014 Mentor Graphics Corporation
+
+
+----------------------------------------------------------------
+
+UVM_INFO @ 0: reporter [RNTST] Running test conv_test...
+UVM_INFO /home/quocna/tools/Vivado/2022.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv(20867) @ 0: reporter [UVM/COMP/NAMECHECK] This implementation of the component name checks requires DPI to be enabled
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10000: uvm_test_top.e1.sb1 [SB]           0
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 20000: uvm_test_top.e1.sb1 [SB]           1
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 30000: uvm_test_top.e1.sb1 [SB]           2
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 40000: uvm_test_top.e1.sb1 [SB]           3
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 50000: uvm_test_top.e1.sb1 [SB]           4
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 60000: uvm_test_top.e1.sb1 [SB]           5
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 70000: uvm_test_top.e1.sb1 [SB]           6
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 80000: uvm_test_top.e1.sb1 [SB]           7
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 90000: uvm_test_top.e1.sb1 [SB]           8
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 100000: uvm_test_top.e1.sb1 [SB]           9
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 110000: uvm_test_top.e1.sb1 [SB]          10
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 120000: uvm_test_top.e1.sb1 [SB]          11
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 130000: uvm_test_top.e1.sb1 [SB]          12
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 140000: uvm_test_top.e1.sb1 [SB]          13
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 150000: uvm_test_top.e1.sb1 [SB]          14
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 160000: uvm_test_top.e1.sb1 [SB]          15
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 170000: uvm_test_top.e1.sb1 [SB]          16
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 180000: uvm_test_top.e1.sb1 [SB]          17
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 190000: uvm_test_top.e1.sb1 [SB]          18
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 200000: uvm_test_top.e1.sb1 [SB]          19
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 210000: uvm_test_top.e1.sb1 [SB]          20
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 220000: uvm_test_top.e1.sb1 [SB]          21
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 230000: uvm_test_top.e1.sb1 [SB]          22
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 240000: uvm_test_top.e1.sb1 [SB]          23
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 250000: uvm_test_top.e1.sb1 [SB]          24
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 260000: uvm_test_top.e1.sb1 [SB]          25
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 270000: uvm_test_top.e1.sb1 [SB]          26
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 280000: uvm_test_top.e1.sb1 [SB]          27
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 290000: uvm_test_top.e1.sb1 [SB]          28
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 300000: uvm_test_top.e1.sb1 [SB]          29
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 310000: uvm_test_top.e1.sb1 [SB]          30
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 320000: uvm_test_top.e1.sb1 [SB]          31
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 330000: uvm_test_top.e1.sb1 [SB]          32
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 340000: uvm_test_top.e1.sb1 [SB]          33
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 350000: uvm_test_top.e1.sb1 [SB]          34
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 360000: uvm_test_top.e1.sb1 [SB]          35
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 370000: uvm_test_top.e1.sb1 [SB]          36
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 380000: uvm_test_top.e1.sb1 [SB]          37
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 390000: uvm_test_top.e1.sb1 [SB]          38
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 400000: uvm_test_top.e1.sb1 [SB]          39
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 410000: uvm_test_top.e1.sb1 [SB]          40
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 420000: uvm_test_top.e1.sb1 [SB]          41
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 430000: uvm_test_top.e1.sb1 [SB]          42
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 440000: uvm_test_top.e1.sb1 [SB]          43
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 450000: uvm_test_top.e1.sb1 [SB]          44
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 460000: uvm_test_top.e1.sb1 [SB]          45
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 470000: uvm_test_top.e1.sb1 [SB]          46
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 480000: uvm_test_top.e1.sb1 [SB]          47
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 490000: uvm_test_top.e1.sb1 [SB]          48
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 500000: uvm_test_top.e1.sb1 [SB]          49
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 510000: uvm_test_top.e1.sb1 [SB]          50
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 520000: uvm_test_top.e1.sb1 [SB]          51
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 530000: uvm_test_top.e1.sb1 [SB]          52
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 540000: uvm_test_top.e1.sb1 [SB]          53
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 550000: uvm_test_top.e1.sb1 [SB]          54
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 560000: uvm_test_top.e1.sb1 [SB]          55
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 570000: uvm_test_top.e1.sb1 [SB]          56
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 580000: uvm_test_top.e1.sb1 [SB]          57
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 590000: uvm_test_top.e1.sb1 [SB]          58
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 600000: uvm_test_top.e1.sb1 [SB]          59
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 610000: uvm_test_top.e1.sb1 [SB]          60
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 620000: uvm_test_top.e1.sb1 [SB]          61
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 630000: uvm_test_top.e1.sb1 [SB]          62
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 640000: uvm_test_top.e1.sb1 [SB]          63
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 650000: uvm_test_top.e1.sb1 [SB]          64
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 660000: uvm_test_top.e1.sb1 [SB]          65
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 670000: uvm_test_top.e1.sb1 [SB]          66
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 680000: uvm_test_top.e1.sb1 [SB]          67
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 690000: uvm_test_top.e1.sb1 [SB]          68
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 700000: uvm_test_top.e1.sb1 [SB]          69
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 710000: uvm_test_top.e1.sb1 [SB]          70
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 720000: uvm_test_top.e1.sb1 [SB]          71
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 730000: uvm_test_top.e1.sb1 [SB]          72
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 740000: uvm_test_top.e1.sb1 [SB]          73
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 750000: uvm_test_top.e1.sb1 [SB]          74
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 760000: uvm_test_top.e1.sb1 [SB]          75
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 770000: uvm_test_top.e1.sb1 [SB]          76
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 780000: uvm_test_top.e1.sb1 [SB]          77
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 790000: uvm_test_top.e1.sb1 [SB]          78
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 800000: uvm_test_top.e1.sb1 [SB]          79
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 810000: uvm_test_top.e1.sb1 [SB]          80
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 820000: uvm_test_top.e1.sb1 [SB]          81
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 830000: uvm_test_top.e1.sb1 [SB]          82
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 840000: uvm_test_top.e1.sb1 [SB]          83
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 850000: uvm_test_top.e1.sb1 [SB]          84
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 860000: uvm_test_top.e1.sb1 [SB]          85
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 870000: uvm_test_top.e1.sb1 [SB]          86
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 880000: uvm_test_top.e1.sb1 [SB]          87
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 890000: uvm_test_top.e1.sb1 [SB]          88
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 900000: uvm_test_top.e1.sb1 [SB]          89
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 910000: uvm_test_top.e1.sb1 [SB]          90
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 920000: uvm_test_top.e1.sb1 [SB]          91
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 930000: uvm_test_top.e1.sb1 [SB]          92
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 940000: uvm_test_top.e1.sb1 [SB]          93
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 950000: uvm_test_top.e1.sb1 [SB]          94
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 960000: uvm_test_top.e1.sb1 [SB]          95
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 970000: uvm_test_top.e1.sb1 [SB]          96
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 980000: uvm_test_top.e1.sb1 [SB]          97
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 990000: uvm_test_top.e1.sb1 [SB]          98
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1000000: uvm_test_top.e1.sb1 [SB]          99
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1010000: uvm_test_top.e1.sb1 [SB]         100
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1020000: uvm_test_top.e1.sb1 [SB]         101
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1030000: uvm_test_top.e1.sb1 [SB]         102
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1040000: uvm_test_top.e1.sb1 [SB]         103
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1050000: uvm_test_top.e1.sb1 [SB]         104
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1060000: uvm_test_top.e1.sb1 [SB]         105
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1070000: uvm_test_top.e1.sb1 [SB]         106
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1080000: uvm_test_top.e1.sb1 [SB]         107
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1090000: uvm_test_top.e1.sb1 [SB]         108
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1100000: uvm_test_top.e1.sb1 [SB]         109
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1110000: uvm_test_top.e1.sb1 [SB]         110
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1120000: uvm_test_top.e1.sb1 [SB]         111
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1130000: uvm_test_top.e1.sb1 [SB]         112
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1140000: uvm_test_top.e1.sb1 [SB]         113
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1150000: uvm_test_top.e1.sb1 [SB]         114
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1160000: uvm_test_top.e1.sb1 [SB]         115
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1170000: uvm_test_top.e1.sb1 [SB]         116
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1180000: uvm_test_top.e1.sb1 [SB]         117
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1190000: uvm_test_top.e1.sb1 [SB]         118
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1200000: uvm_test_top.e1.sb1 [SB]         119
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1210000: uvm_test_top.e1.sb1 [SB]         120
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1220000: uvm_test_top.e1.sb1 [SB]         121
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1230000: uvm_test_top.e1.sb1 [SB]         122
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1240000: uvm_test_top.e1.sb1 [SB]         123
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1250000: uvm_test_top.e1.sb1 [SB]         124
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1260000: uvm_test_top.e1.sb1 [SB]         125
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1270000: uvm_test_top.e1.sb1 [SB]         126
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1280000: uvm_test_top.e1.sb1 [SB]         127
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1290000: uvm_test_top.e1.sb1 [SB]         128
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1300000: uvm_test_top.e1.sb1 [SB]         129
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1310000: uvm_test_top.e1.sb1 [SB]         130
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1320000: uvm_test_top.e1.sb1 [SB]         131
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1330000: uvm_test_top.e1.sb1 [SB]         132
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1340000: uvm_test_top.e1.sb1 [SB]         133
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1350000: uvm_test_top.e1.sb1 [SB]         134
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1360000: uvm_test_top.e1.sb1 [SB]         135
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1370000: uvm_test_top.e1.sb1 [SB]         136
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1380000: uvm_test_top.e1.sb1 [SB]         137
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1390000: uvm_test_top.e1.sb1 [SB]         138
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1400000: uvm_test_top.e1.sb1 [SB]         139
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1410000: uvm_test_top.e1.sb1 [SB]         140
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1420000: uvm_test_top.e1.sb1 [SB]         141
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1430000: uvm_test_top.e1.sb1 [SB]         142
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1440000: uvm_test_top.e1.sb1 [SB]         143
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1450000: uvm_test_top.e1.sb1 [SB]         144
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1460000: uvm_test_top.e1.sb1 [SB]         145
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1470000: uvm_test_top.e1.sb1 [SB]         146
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1480000: uvm_test_top.e1.sb1 [SB]         147
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1490000: uvm_test_top.e1.sb1 [SB]         148
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1500000: uvm_test_top.e1.sb1 [SB]         149
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1510000: uvm_test_top.e1.sb1 [SB]         150
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1520000: uvm_test_top.e1.sb1 [SB]         151
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1530000: uvm_test_top.e1.sb1 [SB]         152
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1540000: uvm_test_top.e1.sb1 [SB]         153
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1550000: uvm_test_top.e1.sb1 [SB]         154
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1560000: uvm_test_top.e1.sb1 [SB]         155
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1570000: uvm_test_top.e1.sb1 [SB]         156
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1580000: uvm_test_top.e1.sb1 [SB]         157
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1590000: uvm_test_top.e1.sb1 [SB]         158
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1600000: uvm_test_top.e1.sb1 [SB]         159
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 1600000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @2454                                                
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h0                                                  
+  result      integral      32    'h5                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    1585000                                              
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 1600000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h0                                                  
+  result   integral      32    'h6                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 1600000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1610000: uvm_test_top.e1.sb1 [SB]         160
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1620000: uvm_test_top.e1.sb1 [SB]         161
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1630000: uvm_test_top.e1.sb1 [SB]         162
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1640000: uvm_test_top.e1.sb1 [SB]         163
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1650000: uvm_test_top.e1.sb1 [SB]         164
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1660000: uvm_test_top.e1.sb1 [SB]         165
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1670000: uvm_test_top.e1.sb1 [SB]         166
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1680000: uvm_test_top.e1.sb1 [SB]         167
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1690000: uvm_test_top.e1.sb1 [SB]         168
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1700000: uvm_test_top.e1.sb1 [SB]         169
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1710000: uvm_test_top.e1.sb1 [SB]         170
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1720000: uvm_test_top.e1.sb1 [SB]         171
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1730000: uvm_test_top.e1.sb1 [SB]         172
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1740000: uvm_test_top.e1.sb1 [SB]         173
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1750000: uvm_test_top.e1.sb1 [SB]         174
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1760000: uvm_test_top.e1.sb1 [SB]         175
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1770000: uvm_test_top.e1.sb1 [SB]         176
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1780000: uvm_test_top.e1.sb1 [SB]         177
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1790000: uvm_test_top.e1.sb1 [SB]         178
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1800000: uvm_test_top.e1.sb1 [SB]         179
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1810000: uvm_test_top.e1.sb1 [SB]         180
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1820000: uvm_test_top.e1.sb1 [SB]         181
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1830000: uvm_test_top.e1.sb1 [SB]         182
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1840000: uvm_test_top.e1.sb1 [SB]         183
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1850000: uvm_test_top.e1.sb1 [SB]         184
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1860000: uvm_test_top.e1.sb1 [SB]         185
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1870000: uvm_test_top.e1.sb1 [SB]         186
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1880000: uvm_test_top.e1.sb1 [SB]         187
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1890000: uvm_test_top.e1.sb1 [SB]         188
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1900000: uvm_test_top.e1.sb1 [SB]         189
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1910000: uvm_test_top.e1.sb1 [SB]         190
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1920000: uvm_test_top.e1.sb1 [SB]         191
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1930000: uvm_test_top.e1.sb1 [SB]         192
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1940000: uvm_test_top.e1.sb1 [SB]         193
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1950000: uvm_test_top.e1.sb1 [SB]         194
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1960000: uvm_test_top.e1.sb1 [SB]         195
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1970000: uvm_test_top.e1.sb1 [SB]         196
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1980000: uvm_test_top.e1.sb1 [SB]         197
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 1990000: uvm_test_top.e1.sb1 [SB]         198
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2000000: uvm_test_top.e1.sb1 [SB]         199
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2010000: uvm_test_top.e1.sb1 [SB]         200
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2020000: uvm_test_top.e1.sb1 [SB]         201
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2030000: uvm_test_top.e1.sb1 [SB]         202
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2040000: uvm_test_top.e1.sb1 [SB]         203
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2050000: uvm_test_top.e1.sb1 [SB]         204
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2060000: uvm_test_top.e1.sb1 [SB]         205
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2070000: uvm_test_top.e1.sb1 [SB]         206
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2080000: uvm_test_top.e1.sb1 [SB]         207
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2090000: uvm_test_top.e1.sb1 [SB]         208
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2100000: uvm_test_top.e1.sb1 [SB]         209
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2110000: uvm_test_top.e1.sb1 [SB]         210
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2120000: uvm_test_top.e1.sb1 [SB]         211
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2130000: uvm_test_top.e1.sb1 [SB]         212
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2140000: uvm_test_top.e1.sb1 [SB]         213
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2150000: uvm_test_top.e1.sb1 [SB]         214
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2160000: uvm_test_top.e1.sb1 [SB]         215
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2170000: uvm_test_top.e1.sb1 [SB]         216
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2180000: uvm_test_top.e1.sb1 [SB]         217
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2190000: uvm_test_top.e1.sb1 [SB]         218
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2200000: uvm_test_top.e1.sb1 [SB]         219
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2210000: uvm_test_top.e1.sb1 [SB]         220
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2220000: uvm_test_top.e1.sb1 [SB]         221
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2230000: uvm_test_top.e1.sb1 [SB]         222
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2240000: uvm_test_top.e1.sb1 [SB]         223
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2250000: uvm_test_top.e1.sb1 [SB]         224
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2260000: uvm_test_top.e1.sb1 [SB]         225
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2270000: uvm_test_top.e1.sb1 [SB]         226
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2280000: uvm_test_top.e1.sb1 [SB]         227
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2290000: uvm_test_top.e1.sb1 [SB]         228
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2300000: uvm_test_top.e1.sb1 [SB]         229
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2310000: uvm_test_top.e1.sb1 [SB]         230
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2320000: uvm_test_top.e1.sb1 [SB]         231
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2330000: uvm_test_top.e1.sb1 [SB]         232
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2340000: uvm_test_top.e1.sb1 [SB]         233
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2350000: uvm_test_top.e1.sb1 [SB]         234
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2360000: uvm_test_top.e1.sb1 [SB]         235
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2370000: uvm_test_top.e1.sb1 [SB]         236
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2380000: uvm_test_top.e1.sb1 [SB]         237
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2390000: uvm_test_top.e1.sb1 [SB]         238
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2400000: uvm_test_top.e1.sb1 [SB]         239
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2410000: uvm_test_top.e1.sb1 [SB]         240
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2420000: uvm_test_top.e1.sb1 [SB]         241
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2430000: uvm_test_top.e1.sb1 [SB]         242
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2440000: uvm_test_top.e1.sb1 [SB]         243
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2450000: uvm_test_top.e1.sb1 [SB]         244
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2460000: uvm_test_top.e1.sb1 [SB]         245
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2470000: uvm_test_top.e1.sb1 [SB]         246
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2480000: uvm_test_top.e1.sb1 [SB]         247
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2490000: uvm_test_top.e1.sb1 [SB]         248
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2500000: uvm_test_top.e1.sb1 [SB]         249
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2510000: uvm_test_top.e1.sb1 [SB]         250
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2520000: uvm_test_top.e1.sb1 [SB]         251
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2530000: uvm_test_top.e1.sb1 [SB]         252
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2540000: uvm_test_top.e1.sb1 [SB]         253
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2550000: uvm_test_top.e1.sb1 [SB]         254
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2560000: uvm_test_top.e1.sb1 [SB]         255
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2570000: uvm_test_top.e1.sb1 [SB]         256
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2580000: uvm_test_top.e1.sb1 [SB]         257
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2590000: uvm_test_top.e1.sb1 [SB]         258
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2600000: uvm_test_top.e1.sb1 [SB]         259
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2610000: uvm_test_top.e1.sb1 [SB]         260
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2620000: uvm_test_top.e1.sb1 [SB]         261
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2630000: uvm_test_top.e1.sb1 [SB]         262
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2640000: uvm_test_top.e1.sb1 [SB]         263
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2650000: uvm_test_top.e1.sb1 [SB]         264
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2660000: uvm_test_top.e1.sb1 [SB]         265
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2670000: uvm_test_top.e1.sb1 [SB]         266
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2680000: uvm_test_top.e1.sb1 [SB]         267
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2690000: uvm_test_top.e1.sb1 [SB]         268
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2700000: uvm_test_top.e1.sb1 [SB]         269
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2710000: uvm_test_top.e1.sb1 [SB]         270
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2720000: uvm_test_top.e1.sb1 [SB]         271
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2730000: uvm_test_top.e1.sb1 [SB]         272
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2740000: uvm_test_top.e1.sb1 [SB]         273
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2750000: uvm_test_top.e1.sb1 [SB]         274
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2760000: uvm_test_top.e1.sb1 [SB]         275
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2770000: uvm_test_top.e1.sb1 [SB]         276
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2780000: uvm_test_top.e1.sb1 [SB]         277
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2790000: uvm_test_top.e1.sb1 [SB]         278
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2800000: uvm_test_top.e1.sb1 [SB]         279
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2810000: uvm_test_top.e1.sb1 [SB]         280
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2820000: uvm_test_top.e1.sb1 [SB]         281
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2830000: uvm_test_top.e1.sb1 [SB]         282
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2840000: uvm_test_top.e1.sb1 [SB]         283
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2850000: uvm_test_top.e1.sb1 [SB]         284
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2860000: uvm_test_top.e1.sb1 [SB]         285
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2870000: uvm_test_top.e1.sb1 [SB]         286
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2880000: uvm_test_top.e1.sb1 [SB]         287
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2890000: uvm_test_top.e1.sb1 [SB]         288
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2900000: uvm_test_top.e1.sb1 [SB]         289
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2910000: uvm_test_top.e1.sb1 [SB]         290
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2920000: uvm_test_top.e1.sb1 [SB]         291
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2930000: uvm_test_top.e1.sb1 [SB]         292
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2940000: uvm_test_top.e1.sb1 [SB]         293
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2950000: uvm_test_top.e1.sb1 [SB]         294
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2960000: uvm_test_top.e1.sb1 [SB]         295
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2970000: uvm_test_top.e1.sb1 [SB]         296
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2980000: uvm_test_top.e1.sb1 [SB]         297
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 2990000: uvm_test_top.e1.sb1 [SB]         298
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3000000: uvm_test_top.e1.sb1 [SB]         299
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3010000: uvm_test_top.e1.sb1 [SB]         300
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3020000: uvm_test_top.e1.sb1 [SB]         301
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3030000: uvm_test_top.e1.sb1 [SB]         302
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3040000: uvm_test_top.e1.sb1 [SB]         303
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3050000: uvm_test_top.e1.sb1 [SB]         304
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3060000: uvm_test_top.e1.sb1 [SB]         305
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3070000: uvm_test_top.e1.sb1 [SB]         306
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3080000: uvm_test_top.e1.sb1 [SB]         307
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3090000: uvm_test_top.e1.sb1 [SB]         308
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3100000: uvm_test_top.e1.sb1 [SB]         309
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3110000: uvm_test_top.e1.sb1 [SB]         310
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3120000: uvm_test_top.e1.sb1 [SB]         311
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3130000: uvm_test_top.e1.sb1 [SB]         312
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3140000: uvm_test_top.e1.sb1 [SB]         313
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3150000: uvm_test_top.e1.sb1 [SB]         314
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3160000: uvm_test_top.e1.sb1 [SB]         315
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3170000: uvm_test_top.e1.sb1 [SB]         316
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3180000: uvm_test_top.e1.sb1 [SB]         317
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3190000: uvm_test_top.e1.sb1 [SB]         318
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3200000: uvm_test_top.e1.sb1 [SB]         319
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3210000: uvm_test_top.e1.sb1 [SB]         320
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3220000: uvm_test_top.e1.sb1 [SB]         321
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3230000: uvm_test_top.e1.sb1 [SB]         322
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3240000: uvm_test_top.e1.sb1 [SB]         323
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3250000: uvm_test_top.e1.sb1 [SB]         324
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3260000: uvm_test_top.e1.sb1 [SB]         325
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3270000: uvm_test_top.e1.sb1 [SB]         326
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3280000: uvm_test_top.e1.sb1 [SB]         327
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3290000: uvm_test_top.e1.sb1 [SB]         328
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3300000: uvm_test_top.e1.sb1 [SB]         329
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3310000: uvm_test_top.e1.sb1 [SB]         330
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3320000: uvm_test_top.e1.sb1 [SB]         331
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3330000: uvm_test_top.e1.sb1 [SB]         332
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3340000: uvm_test_top.e1.sb1 [SB]         333
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3350000: uvm_test_top.e1.sb1 [SB]         334
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3360000: uvm_test_top.e1.sb1 [SB]         335
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3370000: uvm_test_top.e1.sb1 [SB]         336
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3380000: uvm_test_top.e1.sb1 [SB]         337
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3390000: uvm_test_top.e1.sb1 [SB]         338
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3400000: uvm_test_top.e1.sb1 [SB]         339
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3410000: uvm_test_top.e1.sb1 [SB]         340
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3420000: uvm_test_top.e1.sb1 [SB]         341
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3430000: uvm_test_top.e1.sb1 [SB]         342
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3440000: uvm_test_top.e1.sb1 [SB]         343
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3450000: uvm_test_top.e1.sb1 [SB]         344
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3460000: uvm_test_top.e1.sb1 [SB]         345
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3470000: uvm_test_top.e1.sb1 [SB]         346
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3480000: uvm_test_top.e1.sb1 [SB]         347
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3490000: uvm_test_top.e1.sb1 [SB]         348
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3500000: uvm_test_top.e1.sb1 [SB]         349
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3510000: uvm_test_top.e1.sb1 [SB]         350
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3520000: uvm_test_top.e1.sb1 [SB]         351
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3530000: uvm_test_top.e1.sb1 [SB]         352
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3540000: uvm_test_top.e1.sb1 [SB]         353
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3550000: uvm_test_top.e1.sb1 [SB]         354
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3560000: uvm_test_top.e1.sb1 [SB]         355
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3570000: uvm_test_top.e1.sb1 [SB]         356
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3580000: uvm_test_top.e1.sb1 [SB]         357
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3590000: uvm_test_top.e1.sb1 [SB]         358
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3600000: uvm_test_top.e1.sb1 [SB]         359
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3610000: uvm_test_top.e1.sb1 [SB]         360
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3620000: uvm_test_top.e1.sb1 [SB]         361
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3630000: uvm_test_top.e1.sb1 [SB]         362
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3640000: uvm_test_top.e1.sb1 [SB]         363
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3650000: uvm_test_top.e1.sb1 [SB]         364
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3660000: uvm_test_top.e1.sb1 [SB]         365
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3670000: uvm_test_top.e1.sb1 [SB]         366
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3680000: uvm_test_top.e1.sb1 [SB]         367
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3690000: uvm_test_top.e1.sb1 [SB]         368
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3700000: uvm_test_top.e1.sb1 [SB]         369
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3710000: uvm_test_top.e1.sb1 [SB]         370
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3720000: uvm_test_top.e1.sb1 [SB]         371
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3730000: uvm_test_top.e1.sb1 [SB]         372
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3740000: uvm_test_top.e1.sb1 [SB]         373
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3750000: uvm_test_top.e1.sb1 [SB]         374
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3760000: uvm_test_top.e1.sb1 [SB]         375
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3770000: uvm_test_top.e1.sb1 [SB]         376
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3780000: uvm_test_top.e1.sb1 [SB]         377
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3790000: uvm_test_top.e1.sb1 [SB]         378
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3800000: uvm_test_top.e1.sb1 [SB]         379
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3810000: uvm_test_top.e1.sb1 [SB]         380
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3820000: uvm_test_top.e1.sb1 [SB]         381
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3830000: uvm_test_top.e1.sb1 [SB]         382
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3840000: uvm_test_top.e1.sb1 [SB]         383
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3850000: uvm_test_top.e1.sb1 [SB]         384
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3860000: uvm_test_top.e1.sb1 [SB]         385
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3870000: uvm_test_top.e1.sb1 [SB]         386
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3880000: uvm_test_top.e1.sb1 [SB]         387
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3890000: uvm_test_top.e1.sb1 [SB]         388
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3900000: uvm_test_top.e1.sb1 [SB]         389
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3910000: uvm_test_top.e1.sb1 [SB]         390
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3920000: uvm_test_top.e1.sb1 [SB]         391
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3930000: uvm_test_top.e1.sb1 [SB]         392
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3940000: uvm_test_top.e1.sb1 [SB]         393
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3950000: uvm_test_top.e1.sb1 [SB]         394
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3960000: uvm_test_top.e1.sb1 [SB]         395
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3970000: uvm_test_top.e1.sb1 [SB]         396
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3980000: uvm_test_top.e1.sb1 [SB]         397
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 3990000: uvm_test_top.e1.sb1 [SB]         398
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4000000: uvm_test_top.e1.sb1 [SB]         399
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4010000: uvm_test_top.e1.sb1 [SB]         400
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4020000: uvm_test_top.e1.sb1 [SB]         401
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4030000: uvm_test_top.e1.sb1 [SB]         402
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4040000: uvm_test_top.e1.sb1 [SB]         403
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4050000: uvm_test_top.e1.sb1 [SB]         404
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4060000: uvm_test_top.e1.sb1 [SB]         405
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4070000: uvm_test_top.e1.sb1 [SB]         406
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4080000: uvm_test_top.e1.sb1 [SB]         407
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4090000: uvm_test_top.e1.sb1 [SB]         408
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4100000: uvm_test_top.e1.sb1 [SB]         409
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4110000: uvm_test_top.e1.sb1 [SB]         410
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4120000: uvm_test_top.e1.sb1 [SB]         411
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4130000: uvm_test_top.e1.sb1 [SB]         412
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4140000: uvm_test_top.e1.sb1 [SB]         413
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4150000: uvm_test_top.e1.sb1 [SB]         414
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4160000: uvm_test_top.e1.sb1 [SB]         415
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4170000: uvm_test_top.e1.sb1 [SB]         416
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4180000: uvm_test_top.e1.sb1 [SB]         417
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4190000: uvm_test_top.e1.sb1 [SB]         418
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4200000: uvm_test_top.e1.sb1 [SB]         419
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4210000: uvm_test_top.e1.sb1 [SB]         420
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4220000: uvm_test_top.e1.sb1 [SB]         421
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4230000: uvm_test_top.e1.sb1 [SB]         422
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4240000: uvm_test_top.e1.sb1 [SB]         423
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4250000: uvm_test_top.e1.sb1 [SB]         424
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4260000: uvm_test_top.e1.sb1 [SB]         425
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4270000: uvm_test_top.e1.sb1 [SB]         426
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4280000: uvm_test_top.e1.sb1 [SB]         427
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4290000: uvm_test_top.e1.sb1 [SB]         428
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4300000: uvm_test_top.e1.sb1 [SB]         429
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4310000: uvm_test_top.e1.sb1 [SB]         430
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4320000: uvm_test_top.e1.sb1 [SB]         431
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4330000: uvm_test_top.e1.sb1 [SB]         432
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4340000: uvm_test_top.e1.sb1 [SB]         433
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4350000: uvm_test_top.e1.sb1 [SB]         434
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4360000: uvm_test_top.e1.sb1 [SB]         435
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4370000: uvm_test_top.e1.sb1 [SB]         436
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4380000: uvm_test_top.e1.sb1 [SB]         437
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4390000: uvm_test_top.e1.sb1 [SB]         438
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4400000: uvm_test_top.e1.sb1 [SB]         439
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4410000: uvm_test_top.e1.sb1 [SB]         440
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4420000: uvm_test_top.e1.sb1 [SB]         441
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4430000: uvm_test_top.e1.sb1 [SB]         442
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4440000: uvm_test_top.e1.sb1 [SB]         443
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4450000: uvm_test_top.e1.sb1 [SB]         444
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4460000: uvm_test_top.e1.sb1 [SB]         445
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4470000: uvm_test_top.e1.sb1 [SB]         446
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4480000: uvm_test_top.e1.sb1 [SB]         447
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4490000: uvm_test_top.e1.sb1 [SB]         448
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4500000: uvm_test_top.e1.sb1 [SB]         449
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4510000: uvm_test_top.e1.sb1 [SB]         450
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4520000: uvm_test_top.e1.sb1 [SB]         451
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4530000: uvm_test_top.e1.sb1 [SB]         452
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4540000: uvm_test_top.e1.sb1 [SB]         453
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4550000: uvm_test_top.e1.sb1 [SB]         454
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4560000: uvm_test_top.e1.sb1 [SB]         455
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4570000: uvm_test_top.e1.sb1 [SB]         456
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4580000: uvm_test_top.e1.sb1 [SB]         457
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4590000: uvm_test_top.e1.sb1 [SB]         458
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4600000: uvm_test_top.e1.sb1 [SB]         459
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4610000: uvm_test_top.e1.sb1 [SB]         460
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4620000: uvm_test_top.e1.sb1 [SB]         461
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4630000: uvm_test_top.e1.sb1 [SB]         462
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4640000: uvm_test_top.e1.sb1 [SB]         463
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4650000: uvm_test_top.e1.sb1 [SB]         464
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4660000: uvm_test_top.e1.sb1 [SB]         465
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4670000: uvm_test_top.e1.sb1 [SB]         466
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4680000: uvm_test_top.e1.sb1 [SB]         467
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4690000: uvm_test_top.e1.sb1 [SB]         468
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4700000: uvm_test_top.e1.sb1 [SB]         469
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4710000: uvm_test_top.e1.sb1 [SB]         470
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4720000: uvm_test_top.e1.sb1 [SB]         471
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4730000: uvm_test_top.e1.sb1 [SB]         472
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4740000: uvm_test_top.e1.sb1 [SB]         473
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4750000: uvm_test_top.e1.sb1 [SB]         474
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4760000: uvm_test_top.e1.sb1 [SB]         475
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4770000: uvm_test_top.e1.sb1 [SB]         476
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4780000: uvm_test_top.e1.sb1 [SB]         477
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4790000: uvm_test_top.e1.sb1 [SB]         478
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4800000: uvm_test_top.e1.sb1 [SB]         479
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4810000: uvm_test_top.e1.sb1 [SB]         480
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4820000: uvm_test_top.e1.sb1 [SB]         481
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4830000: uvm_test_top.e1.sb1 [SB]         482
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4840000: uvm_test_top.e1.sb1 [SB]         483
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4850000: uvm_test_top.e1.sb1 [SB]         484
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4860000: uvm_test_top.e1.sb1 [SB]         485
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4870000: uvm_test_top.e1.sb1 [SB]         486
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4880000: uvm_test_top.e1.sb1 [SB]         487
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4890000: uvm_test_top.e1.sb1 [SB]         488
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4900000: uvm_test_top.e1.sb1 [SB]         489
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4910000: uvm_test_top.e1.sb1 [SB]         490
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4920000: uvm_test_top.e1.sb1 [SB]         491
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4930000: uvm_test_top.e1.sb1 [SB]         492
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4940000: uvm_test_top.e1.sb1 [SB]         493
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4950000: uvm_test_top.e1.sb1 [SB]         494
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4960000: uvm_test_top.e1.sb1 [SB]         495
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4970000: uvm_test_top.e1.sb1 [SB]         496
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4980000: uvm_test_top.e1.sb1 [SB]         497
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 4990000: uvm_test_top.e1.sb1 [SB]         498
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5000000: uvm_test_top.e1.sb1 [SB]         499
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5010000: uvm_test_top.e1.sb1 [SB]         500
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5020000: uvm_test_top.e1.sb1 [SB]         501
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5030000: uvm_test_top.e1.sb1 [SB]         502
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5040000: uvm_test_top.e1.sb1 [SB]         503
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5050000: uvm_test_top.e1.sb1 [SB]         504
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5060000: uvm_test_top.e1.sb1 [SB]         505
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5070000: uvm_test_top.e1.sb1 [SB]         506
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5080000: uvm_test_top.e1.sb1 [SB]         507
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5090000: uvm_test_top.e1.sb1 [SB]         508
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5100000: uvm_test_top.e1.sb1 [SB]         509
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5110000: uvm_test_top.e1.sb1 [SB]         510
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5120000: uvm_test_top.e1.sb1 [SB]         511
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5130000: uvm_test_top.e1.sb1 [SB]         512
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5140000: uvm_test_top.e1.sb1 [SB]         513
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5150000: uvm_test_top.e1.sb1 [SB]         514
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5160000: uvm_test_top.e1.sb1 [SB]         515
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5170000: uvm_test_top.e1.sb1 [SB]         516
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5180000: uvm_test_top.e1.sb1 [SB]         517
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5190000: uvm_test_top.e1.sb1 [SB]         518
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5200000: uvm_test_top.e1.sb1 [SB]         519
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5210000: uvm_test_top.e1.sb1 [SB]         520
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5220000: uvm_test_top.e1.sb1 [SB]         521
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5230000: uvm_test_top.e1.sb1 [SB]         522
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5240000: uvm_test_top.e1.sb1 [SB]         523
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5250000: uvm_test_top.e1.sb1 [SB]         524
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5260000: uvm_test_top.e1.sb1 [SB]         525
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5270000: uvm_test_top.e1.sb1 [SB]         526
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5280000: uvm_test_top.e1.sb1 [SB]         527
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5290000: uvm_test_top.e1.sb1 [SB]         528
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5300000: uvm_test_top.e1.sb1 [SB]         529
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5310000: uvm_test_top.e1.sb1 [SB]         530
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5320000: uvm_test_top.e1.sb1 [SB]         531
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5330000: uvm_test_top.e1.sb1 [SB]         532
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5340000: uvm_test_top.e1.sb1 [SB]         533
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5350000: uvm_test_top.e1.sb1 [SB]         534
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5360000: uvm_test_top.e1.sb1 [SB]         535
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5370000: uvm_test_top.e1.sb1 [SB]         536
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5380000: uvm_test_top.e1.sb1 [SB]         537
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5390000: uvm_test_top.e1.sb1 [SB]         538
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5400000: uvm_test_top.e1.sb1 [SB]         539
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5410000: uvm_test_top.e1.sb1 [SB]         540
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5420000: uvm_test_top.e1.sb1 [SB]         541
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5430000: uvm_test_top.e1.sb1 [SB]         542
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5440000: uvm_test_top.e1.sb1 [SB]         543
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5450000: uvm_test_top.e1.sb1 [SB]         544
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5460000: uvm_test_top.e1.sb1 [SB]         545
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5470000: uvm_test_top.e1.sb1 [SB]         546
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5480000: uvm_test_top.e1.sb1 [SB]         547
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5490000: uvm_test_top.e1.sb1 [SB]         548
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5500000: uvm_test_top.e1.sb1 [SB]         549
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5510000: uvm_test_top.e1.sb1 [SB]         550
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5520000: uvm_test_top.e1.sb1 [SB]         551
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5530000: uvm_test_top.e1.sb1 [SB]         552
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5540000: uvm_test_top.e1.sb1 [SB]         553
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5550000: uvm_test_top.e1.sb1 [SB]         554
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5560000: uvm_test_top.e1.sb1 [SB]         555
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5570000: uvm_test_top.e1.sb1 [SB]         556
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5580000: uvm_test_top.e1.sb1 [SB]         557
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5590000: uvm_test_top.e1.sb1 [SB]         558
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5600000: uvm_test_top.e1.sb1 [SB]         559
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5610000: uvm_test_top.e1.sb1 [SB]         560
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5620000: uvm_test_top.e1.sb1 [SB]         561
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5630000: uvm_test_top.e1.sb1 [SB]         562
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5640000: uvm_test_top.e1.sb1 [SB]         563
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5650000: uvm_test_top.e1.sb1 [SB]         564
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5660000: uvm_test_top.e1.sb1 [SB]         565
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5670000: uvm_test_top.e1.sb1 [SB]         566
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5680000: uvm_test_top.e1.sb1 [SB]         567
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5690000: uvm_test_top.e1.sb1 [SB]         568
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5700000: uvm_test_top.e1.sb1 [SB]         569
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5710000: uvm_test_top.e1.sb1 [SB]         570
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5720000: uvm_test_top.e1.sb1 [SB]         571
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5730000: uvm_test_top.e1.sb1 [SB]         572
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5740000: uvm_test_top.e1.sb1 [SB]         573
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5750000: uvm_test_top.e1.sb1 [SB]         574
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5760000: uvm_test_top.e1.sb1 [SB]         575
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5770000: uvm_test_top.e1.sb1 [SB]         576
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5780000: uvm_test_top.e1.sb1 [SB]         577
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5790000: uvm_test_top.e1.sb1 [SB]         578
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5800000: uvm_test_top.e1.sb1 [SB]         579
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5810000: uvm_test_top.e1.sb1 [SB]         580
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5820000: uvm_test_top.e1.sb1 [SB]         581
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5830000: uvm_test_top.e1.sb1 [SB]         582
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5840000: uvm_test_top.e1.sb1 [SB]         583
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5850000: uvm_test_top.e1.sb1 [SB]         584
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5860000: uvm_test_top.e1.sb1 [SB]         585
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5870000: uvm_test_top.e1.sb1 [SB]         586
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5880000: uvm_test_top.e1.sb1 [SB]         587
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5890000: uvm_test_top.e1.sb1 [SB]         588
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5900000: uvm_test_top.e1.sb1 [SB]         589
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5910000: uvm_test_top.e1.sb1 [SB]         590
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5920000: uvm_test_top.e1.sb1 [SB]         591
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5930000: uvm_test_top.e1.sb1 [SB]         592
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5940000: uvm_test_top.e1.sb1 [SB]         593
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5950000: uvm_test_top.e1.sb1 [SB]         594
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5960000: uvm_test_top.e1.sb1 [SB]         595
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5970000: uvm_test_top.e1.sb1 [SB]         596
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5980000: uvm_test_top.e1.sb1 [SB]         597
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 5990000: uvm_test_top.e1.sb1 [SB]         598
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6000000: uvm_test_top.e1.sb1 [SB]         599
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6010000: uvm_test_top.e1.sb1 [SB]         600
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6020000: uvm_test_top.e1.sb1 [SB]         601
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6030000: uvm_test_top.e1.sb1 [SB]         602
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6040000: uvm_test_top.e1.sb1 [SB]         603
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6050000: uvm_test_top.e1.sb1 [SB]         604
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6060000: uvm_test_top.e1.sb1 [SB]         605
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6070000: uvm_test_top.e1.sb1 [SB]         606
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6080000: uvm_test_top.e1.sb1 [SB]         607
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6090000: uvm_test_top.e1.sb1 [SB]         608
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6100000: uvm_test_top.e1.sb1 [SB]         609
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6110000: uvm_test_top.e1.sb1 [SB]         610
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6120000: uvm_test_top.e1.sb1 [SB]         611
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6130000: uvm_test_top.e1.sb1 [SB]         612
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6140000: uvm_test_top.e1.sb1 [SB]         613
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6150000: uvm_test_top.e1.sb1 [SB]         614
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6160000: uvm_test_top.e1.sb1 [SB]         615
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6170000: uvm_test_top.e1.sb1 [SB]         616
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6180000: uvm_test_top.e1.sb1 [SB]         617
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6190000: uvm_test_top.e1.sb1 [SB]         618
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6200000: uvm_test_top.e1.sb1 [SB]         619
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6210000: uvm_test_top.e1.sb1 [SB]         620
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6220000: uvm_test_top.e1.sb1 [SB]         621
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6230000: uvm_test_top.e1.sb1 [SB]         622
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6240000: uvm_test_top.e1.sb1 [SB]         623
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6250000: uvm_test_top.e1.sb1 [SB]         624
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6260000: uvm_test_top.e1.sb1 [SB]         625
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6270000: uvm_test_top.e1.sb1 [SB]         626
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6280000: uvm_test_top.e1.sb1 [SB]         627
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6290000: uvm_test_top.e1.sb1 [SB]         628
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6300000: uvm_test_top.e1.sb1 [SB]         629
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6310000: uvm_test_top.e1.sb1 [SB]         630
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6320000: uvm_test_top.e1.sb1 [SB]         631
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6330000: uvm_test_top.e1.sb1 [SB]         632
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6340000: uvm_test_top.e1.sb1 [SB]         633
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6350000: uvm_test_top.e1.sb1 [SB]         634
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6360000: uvm_test_top.e1.sb1 [SB]         635
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6370000: uvm_test_top.e1.sb1 [SB]         636
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6380000: uvm_test_top.e1.sb1 [SB]         637
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6390000: uvm_test_top.e1.sb1 [SB]         638
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6400000: uvm_test_top.e1.sb1 [SB]         639
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6410000: uvm_test_top.e1.sb1 [SB]         640
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6420000: uvm_test_top.e1.sb1 [SB]         641
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6430000: uvm_test_top.e1.sb1 [SB]         642
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6440000: uvm_test_top.e1.sb1 [SB]         643
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6450000: uvm_test_top.e1.sb1 [SB]         644
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6460000: uvm_test_top.e1.sb1 [SB]         645
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6470000: uvm_test_top.e1.sb1 [SB]         646
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6480000: uvm_test_top.e1.sb1 [SB]         647
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6490000: uvm_test_top.e1.sb1 [SB]         648
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6500000: uvm_test_top.e1.sb1 [SB]         649
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6510000: uvm_test_top.e1.sb1 [SB]         650
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6520000: uvm_test_top.e1.sb1 [SB]         651
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6530000: uvm_test_top.e1.sb1 [SB]         652
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6540000: uvm_test_top.e1.sb1 [SB]         653
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6550000: uvm_test_top.e1.sb1 [SB]         654
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6560000: uvm_test_top.e1.sb1 [SB]         655
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6570000: uvm_test_top.e1.sb1 [SB]         656
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6580000: uvm_test_top.e1.sb1 [SB]         657
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6590000: uvm_test_top.e1.sb1 [SB]         658
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6600000: uvm_test_top.e1.sb1 [SB]         659
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6610000: uvm_test_top.e1.sb1 [SB]         660
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6620000: uvm_test_top.e1.sb1 [SB]         661
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6630000: uvm_test_top.e1.sb1 [SB]         662
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6640000: uvm_test_top.e1.sb1 [SB]         663
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6650000: uvm_test_top.e1.sb1 [SB]         664
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6660000: uvm_test_top.e1.sb1 [SB]         665
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6670000: uvm_test_top.e1.sb1 [SB]         666
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6680000: uvm_test_top.e1.sb1 [SB]         667
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6690000: uvm_test_top.e1.sb1 [SB]         668
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6700000: uvm_test_top.e1.sb1 [SB]         669
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6710000: uvm_test_top.e1.sb1 [SB]         670
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6720000: uvm_test_top.e1.sb1 [SB]         671
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6730000: uvm_test_top.e1.sb1 [SB]         672
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6740000: uvm_test_top.e1.sb1 [SB]         673
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6750000: uvm_test_top.e1.sb1 [SB]         674
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6760000: uvm_test_top.e1.sb1 [SB]         675
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6770000: uvm_test_top.e1.sb1 [SB]         676
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6780000: uvm_test_top.e1.sb1 [SB]         677
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6790000: uvm_test_top.e1.sb1 [SB]         678
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6800000: uvm_test_top.e1.sb1 [SB]         679
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6810000: uvm_test_top.e1.sb1 [SB]         680
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6820000: uvm_test_top.e1.sb1 [SB]         681
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6830000: uvm_test_top.e1.sb1 [SB]         682
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6840000: uvm_test_top.e1.sb1 [SB]         683
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6850000: uvm_test_top.e1.sb1 [SB]         684
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6860000: uvm_test_top.e1.sb1 [SB]         685
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6870000: uvm_test_top.e1.sb1 [SB]         686
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6880000: uvm_test_top.e1.sb1 [SB]         687
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6890000: uvm_test_top.e1.sb1 [SB]         688
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6900000: uvm_test_top.e1.sb1 [SB]         689
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6910000: uvm_test_top.e1.sb1 [SB]         690
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6920000: uvm_test_top.e1.sb1 [SB]         691
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6930000: uvm_test_top.e1.sb1 [SB]         692
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6940000: uvm_test_top.e1.sb1 [SB]         693
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6950000: uvm_test_top.e1.sb1 [SB]         694
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6960000: uvm_test_top.e1.sb1 [SB]         695
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6970000: uvm_test_top.e1.sb1 [SB]         696
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6980000: uvm_test_top.e1.sb1 [SB]         697
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 6990000: uvm_test_top.e1.sb1 [SB]         698
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7000000: uvm_test_top.e1.sb1 [SB]         699
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7010000: uvm_test_top.e1.sb1 [SB]         700
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7020000: uvm_test_top.e1.sb1 [SB]         701
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7030000: uvm_test_top.e1.sb1 [SB]         702
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7040000: uvm_test_top.e1.sb1 [SB]         703
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7050000: uvm_test_top.e1.sb1 [SB]         704
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7060000: uvm_test_top.e1.sb1 [SB]         705
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7070000: uvm_test_top.e1.sb1 [SB]         706
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7080000: uvm_test_top.e1.sb1 [SB]         707
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7090000: uvm_test_top.e1.sb1 [SB]         708
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7100000: uvm_test_top.e1.sb1 [SB]         709
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7110000: uvm_test_top.e1.sb1 [SB]         710
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7120000: uvm_test_top.e1.sb1 [SB]         711
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7130000: uvm_test_top.e1.sb1 [SB]         712
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7140000: uvm_test_top.e1.sb1 [SB]         713
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7150000: uvm_test_top.e1.sb1 [SB]         714
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7160000: uvm_test_top.e1.sb1 [SB]         715
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7170000: uvm_test_top.e1.sb1 [SB]         716
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7180000: uvm_test_top.e1.sb1 [SB]         717
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7190000: uvm_test_top.e1.sb1 [SB]         718
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7200000: uvm_test_top.e1.sb1 [SB]         719
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7210000: uvm_test_top.e1.sb1 [SB]         720
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7220000: uvm_test_top.e1.sb1 [SB]         721
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7230000: uvm_test_top.e1.sb1 [SB]         722
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7240000: uvm_test_top.e1.sb1 [SB]         723
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7250000: uvm_test_top.e1.sb1 [SB]         724
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7260000: uvm_test_top.e1.sb1 [SB]         725
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7270000: uvm_test_top.e1.sb1 [SB]         726
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7280000: uvm_test_top.e1.sb1 [SB]         727
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7290000: uvm_test_top.e1.sb1 [SB]         728
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7300000: uvm_test_top.e1.sb1 [SB]         729
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7310000: uvm_test_top.e1.sb1 [SB]         730
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7320000: uvm_test_top.e1.sb1 [SB]         731
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7330000: uvm_test_top.e1.sb1 [SB]         732
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7340000: uvm_test_top.e1.sb1 [SB]         733
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7350000: uvm_test_top.e1.sb1 [SB]         734
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7360000: uvm_test_top.e1.sb1 [SB]         735
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7370000: uvm_test_top.e1.sb1 [SB]         736
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7380000: uvm_test_top.e1.sb1 [SB]         737
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7390000: uvm_test_top.e1.sb1 [SB]         738
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7400000: uvm_test_top.e1.sb1 [SB]         739
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7410000: uvm_test_top.e1.sb1 [SB]         740
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7420000: uvm_test_top.e1.sb1 [SB]         741
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7430000: uvm_test_top.e1.sb1 [SB]         742
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7440000: uvm_test_top.e1.sb1 [SB]         743
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7450000: uvm_test_top.e1.sb1 [SB]         744
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7460000: uvm_test_top.e1.sb1 [SB]         745
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7470000: uvm_test_top.e1.sb1 [SB]         746
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7480000: uvm_test_top.e1.sb1 [SB]         747
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7490000: uvm_test_top.e1.sb1 [SB]         748
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7500000: uvm_test_top.e1.sb1 [SB]         749
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7510000: uvm_test_top.e1.sb1 [SB]         750
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7520000: uvm_test_top.e1.sb1 [SB]         751
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7530000: uvm_test_top.e1.sb1 [SB]         752
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7540000: uvm_test_top.e1.sb1 [SB]         753
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7550000: uvm_test_top.e1.sb1 [SB]         754
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7560000: uvm_test_top.e1.sb1 [SB]         755
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7570000: uvm_test_top.e1.sb1 [SB]         756
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7580000: uvm_test_top.e1.sb1 [SB]         757
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7590000: uvm_test_top.e1.sb1 [SB]         758
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7600000: uvm_test_top.e1.sb1 [SB]         759
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7610000: uvm_test_top.e1.sb1 [SB]         760
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7620000: uvm_test_top.e1.sb1 [SB]         761
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7630000: uvm_test_top.e1.sb1 [SB]         762
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7640000: uvm_test_top.e1.sb1 [SB]         763
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7650000: uvm_test_top.e1.sb1 [SB]         764
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7660000: uvm_test_top.e1.sb1 [SB]         765
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7670000: uvm_test_top.e1.sb1 [SB]         766
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7680000: uvm_test_top.e1.sb1 [SB]         767
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7690000: uvm_test_top.e1.sb1 [SB]         768
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7700000: uvm_test_top.e1.sb1 [SB]         769
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7710000: uvm_test_top.e1.sb1 [SB]         770
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7720000: uvm_test_top.e1.sb1 [SB]         771
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7730000: uvm_test_top.e1.sb1 [SB]         772
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7740000: uvm_test_top.e1.sb1 [SB]         773
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7750000: uvm_test_top.e1.sb1 [SB]         774
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7760000: uvm_test_top.e1.sb1 [SB]         775
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7770000: uvm_test_top.e1.sb1 [SB]         776
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7780000: uvm_test_top.e1.sb1 [SB]         777
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7790000: uvm_test_top.e1.sb1 [SB]         778
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7800000: uvm_test_top.e1.sb1 [SB]         779
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7810000: uvm_test_top.e1.sb1 [SB]         780
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7820000: uvm_test_top.e1.sb1 [SB]         781
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7830000: uvm_test_top.e1.sb1 [SB]         782
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7840000: uvm_test_top.e1.sb1 [SB]         783
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7850000: uvm_test_top.e1.sb1 [SB]         784
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7860000: uvm_test_top.e1.sb1 [SB]         785
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7870000: uvm_test_top.e1.sb1 [SB]         786
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7880000: uvm_test_top.e1.sb1 [SB]         787
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7890000: uvm_test_top.e1.sb1 [SB]         788
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7900000: uvm_test_top.e1.sb1 [SB]         789
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7910000: uvm_test_top.e1.sb1 [SB]         790
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7920000: uvm_test_top.e1.sb1 [SB]         791
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7930000: uvm_test_top.e1.sb1 [SB]         792
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7940000: uvm_test_top.e1.sb1 [SB]         793
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7950000: uvm_test_top.e1.sb1 [SB]         794
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7960000: uvm_test_top.e1.sb1 [SB]         795
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7970000: uvm_test_top.e1.sb1 [SB]         796
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7980000: uvm_test_top.e1.sb1 [SB]         797
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 7990000: uvm_test_top.e1.sb1 [SB]         798
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8000000: uvm_test_top.e1.sb1 [SB]         799
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8010000: uvm_test_top.e1.sb1 [SB]         800
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8020000: uvm_test_top.e1.sb1 [SB]         801
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8030000: uvm_test_top.e1.sb1 [SB]         802
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8040000: uvm_test_top.e1.sb1 [SB]         803
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8050000: uvm_test_top.e1.sb1 [SB]         804
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8060000: uvm_test_top.e1.sb1 [SB]         805
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8070000: uvm_test_top.e1.sb1 [SB]         806
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8080000: uvm_test_top.e1.sb1 [SB]         807
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8090000: uvm_test_top.e1.sb1 [SB]         808
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8100000: uvm_test_top.e1.sb1 [SB]         809
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8110000: uvm_test_top.e1.sb1 [SB]         810
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8120000: uvm_test_top.e1.sb1 [SB]         811
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8130000: uvm_test_top.e1.sb1 [SB]         812
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8140000: uvm_test_top.e1.sb1 [SB]         813
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8150000: uvm_test_top.e1.sb1 [SB]         814
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8160000: uvm_test_top.e1.sb1 [SB]         815
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8170000: uvm_test_top.e1.sb1 [SB]         816
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8180000: uvm_test_top.e1.sb1 [SB]         817
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8190000: uvm_test_top.e1.sb1 [SB]         818
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8200000: uvm_test_top.e1.sb1 [SB]         819
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8210000: uvm_test_top.e1.sb1 [SB]         820
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8220000: uvm_test_top.e1.sb1 [SB]         821
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8230000: uvm_test_top.e1.sb1 [SB]         822
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8240000: uvm_test_top.e1.sb1 [SB]         823
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8250000: uvm_test_top.e1.sb1 [SB]         824
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8260000: uvm_test_top.e1.sb1 [SB]         825
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8270000: uvm_test_top.e1.sb1 [SB]         826
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8280000: uvm_test_top.e1.sb1 [SB]         827
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8290000: uvm_test_top.e1.sb1 [SB]         828
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8300000: uvm_test_top.e1.sb1 [SB]         829
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8310000: uvm_test_top.e1.sb1 [SB]         830
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8320000: uvm_test_top.e1.sb1 [SB]         831
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8330000: uvm_test_top.e1.sb1 [SB]         832
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8340000: uvm_test_top.e1.sb1 [SB]         833
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8350000: uvm_test_top.e1.sb1 [SB]         834
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8360000: uvm_test_top.e1.sb1 [SB]         835
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8370000: uvm_test_top.e1.sb1 [SB]         836
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8380000: uvm_test_top.e1.sb1 [SB]         837
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8390000: uvm_test_top.e1.sb1 [SB]         838
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8400000: uvm_test_top.e1.sb1 [SB]         839
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8410000: uvm_test_top.e1.sb1 [SB]         840
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8420000: uvm_test_top.e1.sb1 [SB]         841
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8430000: uvm_test_top.e1.sb1 [SB]         842
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8440000: uvm_test_top.e1.sb1 [SB]         843
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8450000: uvm_test_top.e1.sb1 [SB]         844
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8460000: uvm_test_top.e1.sb1 [SB]         845
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8470000: uvm_test_top.e1.sb1 [SB]         846
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8480000: uvm_test_top.e1.sb1 [SB]         847
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8490000: uvm_test_top.e1.sb1 [SB]         848
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8500000: uvm_test_top.e1.sb1 [SB]         849
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8510000: uvm_test_top.e1.sb1 [SB]         850
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8520000: uvm_test_top.e1.sb1 [SB]         851
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8530000: uvm_test_top.e1.sb1 [SB]         852
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8540000: uvm_test_top.e1.sb1 [SB]         853
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8550000: uvm_test_top.e1.sb1 [SB]         854
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8560000: uvm_test_top.e1.sb1 [SB]         855
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8570000: uvm_test_top.e1.sb1 [SB]         856
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8580000: uvm_test_top.e1.sb1 [SB]         857
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8590000: uvm_test_top.e1.sb1 [SB]         858
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8600000: uvm_test_top.e1.sb1 [SB]         859
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8610000: uvm_test_top.e1.sb1 [SB]         860
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8620000: uvm_test_top.e1.sb1 [SB]         861
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8630000: uvm_test_top.e1.sb1 [SB]         862
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8640000: uvm_test_top.e1.sb1 [SB]         863
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8650000: uvm_test_top.e1.sb1 [SB]         864
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8660000: uvm_test_top.e1.sb1 [SB]         865
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8670000: uvm_test_top.e1.sb1 [SB]         866
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8680000: uvm_test_top.e1.sb1 [SB]         867
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8690000: uvm_test_top.e1.sb1 [SB]         868
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8700000: uvm_test_top.e1.sb1 [SB]         869
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8710000: uvm_test_top.e1.sb1 [SB]         870
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8720000: uvm_test_top.e1.sb1 [SB]         871
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8730000: uvm_test_top.e1.sb1 [SB]         872
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8740000: uvm_test_top.e1.sb1 [SB]         873
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8750000: uvm_test_top.e1.sb1 [SB]         874
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8760000: uvm_test_top.e1.sb1 [SB]         875
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8770000: uvm_test_top.e1.sb1 [SB]         876
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8780000: uvm_test_top.e1.sb1 [SB]         877
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8790000: uvm_test_top.e1.sb1 [SB]         878
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8800000: uvm_test_top.e1.sb1 [SB]         879
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8810000: uvm_test_top.e1.sb1 [SB]         880
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8820000: uvm_test_top.e1.sb1 [SB]         881
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8830000: uvm_test_top.e1.sb1 [SB]         882
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8840000: uvm_test_top.e1.sb1 [SB]         883
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8850000: uvm_test_top.e1.sb1 [SB]         884
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8860000: uvm_test_top.e1.sb1 [SB]         885
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8870000: uvm_test_top.e1.sb1 [SB]         886
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8880000: uvm_test_top.e1.sb1 [SB]         887
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8890000: uvm_test_top.e1.sb1 [SB]         888
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8900000: uvm_test_top.e1.sb1 [SB]         889
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8910000: uvm_test_top.e1.sb1 [SB]         890
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8920000: uvm_test_top.e1.sb1 [SB]         891
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8930000: uvm_test_top.e1.sb1 [SB]         892
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8940000: uvm_test_top.e1.sb1 [SB]         893
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8950000: uvm_test_top.e1.sb1 [SB]         894
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8960000: uvm_test_top.e1.sb1 [SB]         895
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 8960000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @9820                                                
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h5                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    8945000                                              
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 8960000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h6                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 8960000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8970000: uvm_test_top.e1.sb1 [SB]         896
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8980000: uvm_test_top.e1.sb1 [SB]         897
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 8990000: uvm_test_top.e1.sb1 [SB]         898
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9000000: uvm_test_top.e1.sb1 [SB]         899
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9010000: uvm_test_top.e1.sb1 [SB]         900
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9020000: uvm_test_top.e1.sb1 [SB]         901
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9030000: uvm_test_top.e1.sb1 [SB]         902
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9040000: uvm_test_top.e1.sb1 [SB]         903
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9050000: uvm_test_top.e1.sb1 [SB]         904
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9060000: uvm_test_top.e1.sb1 [SB]         905
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9070000: uvm_test_top.e1.sb1 [SB]         906
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9080000: uvm_test_top.e1.sb1 [SB]         907
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9090000: uvm_test_top.e1.sb1 [SB]         908
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9100000: uvm_test_top.e1.sb1 [SB]         909
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9110000: uvm_test_top.e1.sb1 [SB]         910
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9120000: uvm_test_top.e1.sb1 [SB]         911
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9130000: uvm_test_top.e1.sb1 [SB]         912
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9140000: uvm_test_top.e1.sb1 [SB]         913
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9150000: uvm_test_top.e1.sb1 [SB]         914
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9160000: uvm_test_top.e1.sb1 [SB]         915
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9170000: uvm_test_top.e1.sb1 [SB]         916
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9180000: uvm_test_top.e1.sb1 [SB]         917
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9190000: uvm_test_top.e1.sb1 [SB]         918
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9200000: uvm_test_top.e1.sb1 [SB]         919
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9210000: uvm_test_top.e1.sb1 [SB]         920
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9220000: uvm_test_top.e1.sb1 [SB]         921
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9230000: uvm_test_top.e1.sb1 [SB]         922
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9240000: uvm_test_top.e1.sb1 [SB]         923
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9250000: uvm_test_top.e1.sb1 [SB]         924
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9260000: uvm_test_top.e1.sb1 [SB]         925
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9270000: uvm_test_top.e1.sb1 [SB]         926
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9280000: uvm_test_top.e1.sb1 [SB]         927
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 9280000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @10146                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h9                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    9265000                                              
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 9280000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'hb                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 9280000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9290000: uvm_test_top.e1.sb1 [SB]         928
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9300000: uvm_test_top.e1.sb1 [SB]         929
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9310000: uvm_test_top.e1.sb1 [SB]         930
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9320000: uvm_test_top.e1.sb1 [SB]         931
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9330000: uvm_test_top.e1.sb1 [SB]         932
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9340000: uvm_test_top.e1.sb1 [SB]         933
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9350000: uvm_test_top.e1.sb1 [SB]         934
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9360000: uvm_test_top.e1.sb1 [SB]         935
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9370000: uvm_test_top.e1.sb1 [SB]         936
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9380000: uvm_test_top.e1.sb1 [SB]         937
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9390000: uvm_test_top.e1.sb1 [SB]         938
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9400000: uvm_test_top.e1.sb1 [SB]         939
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9410000: uvm_test_top.e1.sb1 [SB]         940
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9420000: uvm_test_top.e1.sb1 [SB]         941
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9430000: uvm_test_top.e1.sb1 [SB]         942
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9440000: uvm_test_top.e1.sb1 [SB]         943
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9450000: uvm_test_top.e1.sb1 [SB]         944
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9460000: uvm_test_top.e1.sb1 [SB]         945
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9470000: uvm_test_top.e1.sb1 [SB]         946
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9480000: uvm_test_top.e1.sb1 [SB]         947
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9490000: uvm_test_top.e1.sb1 [SB]         948
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9500000: uvm_test_top.e1.sb1 [SB]         949
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9510000: uvm_test_top.e1.sb1 [SB]         950
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9520000: uvm_test_top.e1.sb1 [SB]         951
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9530000: uvm_test_top.e1.sb1 [SB]         952
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9540000: uvm_test_top.e1.sb1 [SB]         953
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9550000: uvm_test_top.e1.sb1 [SB]         954
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9560000: uvm_test_top.e1.sb1 [SB]         955
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9570000: uvm_test_top.e1.sb1 [SB]         956
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9580000: uvm_test_top.e1.sb1 [SB]         957
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9590000: uvm_test_top.e1.sb1 [SB]         958
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9600000: uvm_test_top.e1.sb1 [SB]         959
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 9600000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @10472                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'hd                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    9585000                                              
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 9600000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h10                                                 
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 9600000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9610000: uvm_test_top.e1.sb1 [SB]         960
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9620000: uvm_test_top.e1.sb1 [SB]         961
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9630000: uvm_test_top.e1.sb1 [SB]         962
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9640000: uvm_test_top.e1.sb1 [SB]         963
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9650000: uvm_test_top.e1.sb1 [SB]         964
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9660000: uvm_test_top.e1.sb1 [SB]         965
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9670000: uvm_test_top.e1.sb1 [SB]         966
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9680000: uvm_test_top.e1.sb1 [SB]         967
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9690000: uvm_test_top.e1.sb1 [SB]         968
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9700000: uvm_test_top.e1.sb1 [SB]         969
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9710000: uvm_test_top.e1.sb1 [SB]         970
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9720000: uvm_test_top.e1.sb1 [SB]         971
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9730000: uvm_test_top.e1.sb1 [SB]         972
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9740000: uvm_test_top.e1.sb1 [SB]         973
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9750000: uvm_test_top.e1.sb1 [SB]         974
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9760000: uvm_test_top.e1.sb1 [SB]         975
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9770000: uvm_test_top.e1.sb1 [SB]         976
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9780000: uvm_test_top.e1.sb1 [SB]         977
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9790000: uvm_test_top.e1.sb1 [SB]         978
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9800000: uvm_test_top.e1.sb1 [SB]         979
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9810000: uvm_test_top.e1.sb1 [SB]         980
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9820000: uvm_test_top.e1.sb1 [SB]         981
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9830000: uvm_test_top.e1.sb1 [SB]         982
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9840000: uvm_test_top.e1.sb1 [SB]         983
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9850000: uvm_test_top.e1.sb1 [SB]         984
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9860000: uvm_test_top.e1.sb1 [SB]         985
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9870000: uvm_test_top.e1.sb1 [SB]         986
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9880000: uvm_test_top.e1.sb1 [SB]         987
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9890000: uvm_test_top.e1.sb1 [SB]         988
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9900000: uvm_test_top.e1.sb1 [SB]         989
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9910000: uvm_test_top.e1.sb1 [SB]         990
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9920000: uvm_test_top.e1.sb1 [SB]         991
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 9920000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @10798                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h11                                                 
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    9905000                                              
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 9920000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h15                                                 
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 9920000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9930000: uvm_test_top.e1.sb1 [SB]         992
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9940000: uvm_test_top.e1.sb1 [SB]         993
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9950000: uvm_test_top.e1.sb1 [SB]         994
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9960000: uvm_test_top.e1.sb1 [SB]         995
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9970000: uvm_test_top.e1.sb1 [SB]         996
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9980000: uvm_test_top.e1.sb1 [SB]         997
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 9990000: uvm_test_top.e1.sb1 [SB]         998
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10000000: uvm_test_top.e1.sb1 [SB]         999
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10010000: uvm_test_top.e1.sb1 [SB]        1000
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10020000: uvm_test_top.e1.sb1 [SB]        1001
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10030000: uvm_test_top.e1.sb1 [SB]        1002
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10040000: uvm_test_top.e1.sb1 [SB]        1003
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10050000: uvm_test_top.e1.sb1 [SB]        1004
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10060000: uvm_test_top.e1.sb1 [SB]        1005
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10070000: uvm_test_top.e1.sb1 [SB]        1006
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10080000: uvm_test_top.e1.sb1 [SB]        1007
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10090000: uvm_test_top.e1.sb1 [SB]        1008
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10100000: uvm_test_top.e1.sb1 [SB]        1009
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10110000: uvm_test_top.e1.sb1 [SB]        1010
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10120000: uvm_test_top.e1.sb1 [SB]        1011
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10130000: uvm_test_top.e1.sb1 [SB]        1012
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10140000: uvm_test_top.e1.sb1 [SB]        1013
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10150000: uvm_test_top.e1.sb1 [SB]        1014
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10160000: uvm_test_top.e1.sb1 [SB]        1015
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10170000: uvm_test_top.e1.sb1 [SB]        1016
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10170000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11054                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h1                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10155000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10170000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h2                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10170000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10180000: uvm_test_top.e1.sb1 [SB]        1017
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10180000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11070                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h0                                                  
+  result      integral      32    'h1                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10165000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10180000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h0                                                  
+  result   integral      32    'h2                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10180000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10190000: uvm_test_top.e1.sb1 [SB]        1018
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10190000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11086                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h1                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10175000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10190000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h3                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10190000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10200000: uvm_test_top.e1.sb1 [SB]        1019
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10200000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11102                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h5                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10185000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10200000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h8                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10200000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10210000: uvm_test_top.e1.sb1 [SB]        1020
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10210000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11118                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h9                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10195000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10210000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'hd                                                  
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10210000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10220000: uvm_test_top.e1.sb1 [SB]        1021
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10220000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11134                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'hd                                                  
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10205000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10220000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h11                                                 
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10220000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10230000: uvm_test_top.e1.sb1 [SB]        1022
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10230000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11150                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h11                                                 
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10215000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10230000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h16                                                 
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10230000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(59) @ 10240000: uvm_test_top.e1.sb1 [SB]        1023
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(71) @ 10240000: uvm_test_top.e1.sb1 [SB] EXP_TRANS
+---------------------------------------------------------------------------------------
+Name          Type          Size  Value                                                
+---------------------------------------------------------------------------------------
+req           conv_seqitem  -     @11166                                               
+  kernel      integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel       integral      8     'h1                                                  
+  result      integral      32    'h11                                                 
+  valid       integral      1     'h1                                                  
+  begin_time  time          64    10225000                                             
+---------------------------------------------------------------------------------------
+UVM_INFO /home/quocna/project/uvm_conv/verify/scoreboard.sv(73) @ 10240000: uvm_test_top.e1.sb1 [SB] ACT_TRANS
+------------------------------------------------------------------------------------
+Name       Type          Size  Value                                                
+------------------------------------------------------------------------------------
+act_trans  conv_seqitem  -     @592                                                 
+  kernel   integral      208   'h101010101010101010101010101010101010101010101010101
+  pixel    integral      8     'h1                                                  
+  result   integral      32    'h1a                                                 
+  valid    integral      1     'h1                                                  
+------------------------------------------------------------------------------------
+UVM_ERROR /home/quocna/project/uvm_conv/verify/scoreboard.sv(75) @ 10240000: uvm_test_top.e1.sb1 [uvm_test_top.e1.sb1] COUT MIS-MATCHES
+UVM_INFO /home/quocna/tools/Vivado/2022.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv(19968) @ 10245000: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+---------------------------------------------------
+------ ERROR : TEST CASE FAILED ------------------
+---------------------------------------------------
+UVM_INFO /home/quocna/tools/Vivado/2022.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv(13673) @ 10245000: reporter [UVM/REPORT/SERVER] [uvm_test_top.e1.sb1]    13
+[UVM/RELNOTES]     1
+[UVM/COMP/NAMECHECK]     1
+[TEST_DONE]     1
+[SB]  1050
+[RNTST]     1
+** Report counts by id
+UVM_FATAL :    0
+UVM_ERROR :   13
+UVM_WARNING :    0
+UVM_INFO : 1054
+** Report counts by severity
+
+--- UVM Report Summary ---
+
+
+$finish called at time : 10245 ns : File "/home/quocna/tools/Vivado/2022.1/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv" Line 18699

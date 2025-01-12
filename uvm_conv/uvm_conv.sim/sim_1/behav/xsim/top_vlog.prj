@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../rtl/DUT.sv" \
+"../../../../../rtl/conv.sv" \
+"../../../../../rtl/image_reader.sv" \
+"../../../../../verify/interface.sv" \
+"../../../../../rtl/params.sv" \
+"../../../../../rtl/row4buf.sv" \
+"../../../../../rtl/rowbuf.sv" \
+"../../../../../rtl/valid_data.sv" \
+"../../../../../verify/top_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

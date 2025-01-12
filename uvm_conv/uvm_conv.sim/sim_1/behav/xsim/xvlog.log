@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/rtl/DUT.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DUT
+WARNING: [VRFC 10-3380] identifier 'PARAMS_NUM' is used before its declaration [/home/quocna/project/uvm_conv/rtl/DUT.sv:6]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/rtl/conv.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conv
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/rtl/image_reader.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module image_reader
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/verify/interface.sv" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/rtl/params.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module params
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/rtl/row4buf.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module row4buf
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/rtl/rowbuf.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rowbuf
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/rtl/valid_data.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module valid_data
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/quocna/project/uvm_conv/verify/top_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
